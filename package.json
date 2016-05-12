@@ -1,0 +1,21 @@
+{
+  "name": "babel-preset-flow-vue",
+  "version": "1.0.0",
+  "description": "yet another preset",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyx990803/babel-preset-flow-vue.git"
+  },
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyx990803/babel-preset-flow-vue/issues"
+  },
+  "homepage": "https://github.com/yyx990803/babel-preset-flow-vue#readme",
+  "dependencies": {
+    "babel-plugin-syntax-flow": "^6.8.0",
+    "babel-plugin-transform-class-properties": "^6.8.0",
+    "babel-plugin-transform-flow-strip-types": "^6.8.0"
+  }
+}
