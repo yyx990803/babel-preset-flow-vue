@@ -13,6 +13,9 @@
     "url": "https://github.com/yyx990803/babel-preset-flow-vue/issues"
   },
   "homepage": "https://github.com/yyx990803/babel-preset-flow-vue#readme",
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/plugin-transform-flow-strip-types": "^7.0.0"
