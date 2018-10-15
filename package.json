@@ -14,8 +14,7 @@
   },
   "homepage": "https://github.com/yyx990803/babel-preset-flow-vue#readme",
   "dependencies": {
-    "babel-plugin-syntax-flow": "^6.8.0",
-    "babel-plugin-transform-class-properties": "^6.8.0",
-    "babel-plugin-transform-flow-strip-types": "^6.8.0"
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.0.0"
   }
 }
